@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-"# Eye-Color-Detector" 
+"# Bald or Not-Detector" 
 =======
-# Eye_Color_Detection
+# Baldness Detection
 >>>>>>> d94ba9d3ea446f0b4df0fe2bdc7540835203af95
-"# Eye_Color_Detection" 
+"# BaldNess_Detection" 
