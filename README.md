@@ -9,7 +9,6 @@ In main.py we have implemented the model.
 1. Clone this repository
 2. Run the [main.py] file
 3. Upload the Image you want to detect
-4. Click on detect button
-5. View results
+4. View results
 
 
