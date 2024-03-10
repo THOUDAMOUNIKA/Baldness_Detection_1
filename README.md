@@ -1,7 +1,8 @@
-    # Baldness Detection
+    ## Baldness Detection
 
-    In #training.py we have trained the model.
-    In #main.py we have implemented the model.
+    In ## training.py we have trained the model.
+    In ## main.py we have implemented the model.
+    
 
 ## To Run this Model yourself:
 1. Clone this repository
